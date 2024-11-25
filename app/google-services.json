@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "128096842984",
+    "firebase_url": "https://notification-ea4ef-default-rtdb.firebaseio.com",
+    "project_id": "notification-ea4ef",
+    "storage_bucket": "notification-ea4ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128096842984:android:a27cd682582dbd2a87c55d",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8S9u8zECHA560q2TOuwJHrP5hVLzhEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128096842984:android:2d0ce3403e2bbe7587c55d",
+        "android_client_info": {
+          "package_name": "com.example.scholaadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8S9u8zECHA560q2TOuwJHrP5hVLzhEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

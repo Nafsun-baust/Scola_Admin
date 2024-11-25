@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Schola Admin</string>
+    <string name="department_display_format">%1$s (%2$s)</string>
+
+</resources>

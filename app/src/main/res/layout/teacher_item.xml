@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="160dp"
+    android:layout_height="230dp"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:layout_margin="8dp"
+    android:background="@drawable/border_background"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/teacherImage"
+        android:layout_width="150dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_placeholder" />
+    <TextView
+        android:id="@+id/teacherName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="Teacher Name"
+        android:textStyle="bold"
+        android:textSize="14sp"
+        android:gravity="center"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:id="@+id/teacherPosition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Position"
+        android:textSize="12sp"
+        android:gravity="center"
+        android:textColor="#555555"/>
+
+    <ImageView
+        android:id="@+id/delete_teacher"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginLeft="60dp"
+        app:srcCompat="@drawable/ic_delete" />
+
+
+
+</LinearLayout>
